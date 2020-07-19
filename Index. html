@@ -1,0 +1,43 @@
+<html>
+<head>
+<title>module2_solution</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<h1>My courses</h1>
+
+<div class="box">
+<div class="title">
+<h1>Html</h1>
+</div>
+
+<div class="content">
+
+This is my first content box.HTML, in full hypertext markup language, a formatting system for displaying text, graphics, and audio retrieved over the Internet on a computer monitor. Each retrieval unit is known as a Web page (from World Wide Web), and such pages frequently contain hypertext links that allow related pages to be retrieved.
+
+</div>
+</div>
+<div class="box">
+<div class="title">
+<h1>Css</h1>
+</div>
+<div class="content">
+This is my second content box.CSS stands for Cascading Style Sheets. CSS describes how HTML elements are to be displayed on screen, paper, or in other media. CSS saves a lot of work. It can control the layout of multiple web pages all at once. External stylesheets are stored in CSS files.
+</div>
+
+
+</div>
+<div class="box">
+<div class="title">
+<h1>JavaScript</h1>
+</div>
+<div class="content">
+This is my third content box.JavaScript is a dynamic computer programming language. It is lightweight and most commonly used as a part of web pages, whose implementations allow client-side script to interact with the user and make dynamic pages. It is an interpreted programming language with object-oriented capabilities.
+
+</div>
+
+
+</div>
+
+</body>
+</html>
