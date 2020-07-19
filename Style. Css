@@ -1,0 +1,29 @@
+body{
+margin: 0;
+padding: 0;
+font-family: sans-serif;
+}
+.box
+{
+position: relative;
+width: 400px;
+height: 210px;
+background: #000;
+background-color: skyblue;
+float: left;
+margin: 15px;
+box-shadow: border-box;
+overflow: hidden;
+border-radius: 10px;
+}
+.box .title
+{
+text-align:right;
+background-color:red;  
+}
+ .box .content
+{
+position: absolute;
+/*text-align: center;*/
+box-sizing: border-box;
+}
